@@ -1,3 +1,7 @@
+#2019.12.23 啊辉加
+这是一个本地仓库的 springcloud 分布式的配置
+
+
 
 >转载请标明出处： 
 > http://blog.csdn.net/forezp/article/details/70148833
